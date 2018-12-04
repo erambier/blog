@@ -7,7 +7,7 @@ layoutdir           = "layouts"
 publishdir          = "public"
 theme               = "cocoa"
 author              = "Estelle Rambier"
-title               = "Estelle Rambier"
+title               = "Estelle Rambier beta"
 pygmentsuseclasses  = true
 pygmentsCodefences  = true
 # pygmentsOptions     = "linenos=inline"
