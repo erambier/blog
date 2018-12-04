@@ -6,8 +6,8 @@ languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
 theme               = "cocoa"
-author              = "Max Halford"
-title               = "Max Halford"
+author              = "Estelle Rambier"
+title               = "Estelle Rambier"
 pygmentsuseclasses  = true
 pygmentsCodefences  = true
 # pygmentsOptions     = "linenos=inline"
@@ -40,7 +40,7 @@ url                    = "/about/"
 name                   = "Resume"
 weight                 = -90
 identifier             = "resume"
-url                    = "/files/resume_max_halford.pdf"
+url                    = "/files/rambierestelle_resume.pdf"
 
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
