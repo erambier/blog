@@ -1,4 +1,4 @@
-baseurl             = "https://estellerambier.github.io/my_blog/"
+baseurl             = "https://estellerambier.github.io/blog/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
