@@ -1,4 +1,4 @@
-baseurl             = "https://estellerambier.github.io"
+baseurl             = "https://estellerambier.github.io/blog"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
@@ -40,7 +40,7 @@ url                    = "/about/"
 name                   = "Resume"
 weight                 = -90
 identifier             = "resume"
-url                    = "/files/rambierestelle_resume.pdf"
+url                    = "/blog/files/rambierestelle_resume.pdf"
 
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
