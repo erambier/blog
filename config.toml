@@ -8,6 +8,7 @@ publishdir          = "public"
 theme               = "cocoa"
 author              = "Estelle Rambier"
 title               = "Estelle Rambier beta"
+description 		= "Welcome to my website"
 pygmentsuseclasses  = true
 pygmentsCodefences  = true
 # pygmentsOptions     = "linenos=inline"
@@ -19,13 +20,13 @@ extensionsmask = "noIntraEmphasis=false"
 blog  = "blog/:slug/"
 
 [[menu.main]]
-name                   = "Blog"
+name                   = "Data Science"
 weight                 = -120
 identifier             = "blog"
 url                    = "/blog/"
 
 [[menu.main]]
-name                   = "Links"
+name                   = "Misc Stuff"
 weight                 = -110
 identifier             = "links"
 url                    = "/links/"
@@ -34,7 +35,7 @@ url                    = "/links/"
 name                   = "About"
 weight                 = -100
 identifier             = "about"
-url                    = "/about/"
+url                    = "/blog/about/"
 
 [[menu.main]]
 name                   = "Resume"
