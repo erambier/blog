@@ -23,7 +23,7 @@ blog  = "blog/:slug/"
 name                   = "Data Science"
 weight                 = -120
 identifier             = "blog"
-url                    = "blog/blog/"
+url                    = "blog/"
 
 [[menu.main]]
 name                   = "Misc Stuff"
