@@ -13,4 +13,4 @@ From this, we implemented in MatLab the analytical solution of CRR model, and si
 &nbsp; &nbsp; The second part of the project aims to answer the estimation of the standard deviation.The so-called future volatility is the only parameter of the Black-Scholes formula that couldn't be calculate from the past values. The volatility is a famous for its complexity to estimate and the capabilities to completely jeoperdize the robustness of the Black-Scholes formula. We tried to draw rigourous conclusions on the volatility fluctiation and explored the different solutions to estimate it.
 
 
-Find the rapport [here](/files/ter.pdf)
+Find the rapport [here](/files/ter.pdf).
