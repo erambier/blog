@@ -28,8 +28,8 @@ url                    = "blog/"
 [[menu.main]]
 name                   = "Misc Stuff"
 weight                 = -110
-identifier             = "links"
-url                    = "/links/"
+identifier             = "Misc Stuff"
+url                    = "/blog/Misc_Stuff/"
 
 [[menu.main]]
 name                   = "About"
