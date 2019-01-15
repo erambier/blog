@@ -5,7 +5,7 @@ draft: false
 ---
 
 Hello, 
-I'm excited to present you some of my project. 
+I started this blog to improve my writting skills and my way of talking about my projects. 
 Don't hesitate to reach me out for a feedback, advices or any other kind of information!
 
 Estelle
